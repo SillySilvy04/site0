@@ -1,0 +1,98 @@
+header{
+    background-color: #3F334D;
+}
+
+.rodape{
+    border-bottom: 8px #574B60 solid ;
+    border-top: 8px #574B60 solid ;
+}
+
+#menu{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+    border: 5px;
+}
+
+#flor{
+    width: 200px;
+    display: inline;
+}
+
+nav {
+    position: absolute;
+    top: 85px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 170px;
+}
+
+nav a{
+    text-transform: capitalize;
+    font-size: 30px;
+    background-color: #574B60;
+    color: #C0C5C1;
+    border: 3px solid #C0C5C1;
+    border-radius: 15px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.sobremim{
+    text-align: center;
+    width: 500px;
+    margin: 100px auto;
+    border: 10px solid #574B60;
+    padding: 20px 5px;
+    border-radius: 50px;
+}
+
+.sobremim .foto{
+    width: 250px;
+    border-radius: 180px;
+    position: relative;
+    border: 10px solid #574B60;
+    margin-bottom: 30px;
+}
+
+.texto{
+    position: relative;
+    font-size: 20px;
+}
+
+.contato{
+    width: 700px;
+    margin: 100px auto;
+    font-size: 20px;
+}
+
+.titulo{
+    background: #3F334D;
+    color: #C0C5C1;
+    display: inline-block;
+    padding: 8px;
+    border-radius: 30px;
+    border: 5px solid #7D8491;
+}
+
+.insiraaqui{
+    background: #C0C5C1;
+    margin: 30px 0;
+    padding: 10px;
+    border: 5px solid #7D8491;
+    border-radius: 30px;
+    color: #EAF0CE;
+}
+
+.insiraaqui2{
+    background: #C0C5C1;
+    margin: 30px 0;
+    padding: 10px;
+    border: 5px solid #7D8491;
+    border-radius: 30px;
+    height: 200px;
+    color: #EAF0CE;
+}
